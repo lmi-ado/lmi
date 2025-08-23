@@ -190,7 +190,7 @@ MÁS DE 100 INVERSIONISTAS con los que se reunió rechazaron su propuesta
 Actualmente vale millones de dolares… 
 La CEO y cofundadora de la empresa se convirtió en la segunda mujer más rica de toda Australia
 la empresa se llama  CANVA
-más de 100 personas le dijeron "no" y ella dijo "si" `
+más de 100 personas le dijeron "no" y ella dijo "sí" `
     },
     {
       title: "Meryl Streep",
