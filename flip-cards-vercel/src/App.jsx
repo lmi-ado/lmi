@@ -14,11 +14,13 @@ function FlipCard({ title, content, idx }) {
 
   return (
     <div
-      className="group relative h-72 w-full cursor-pointer outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
+      className="group relative h-96 w-full cursor-pointer outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
       role="button"
       tabIndex={0}
       aria-pressed={flipped}
-      aria-label={`Tarjeta ${idx + 1}: ${title}. ${flipped ? "Mostrar título" : "Mostrar contenido"}`}
+      aria-label={`Tarjeta ${idx + 1}: ${title}. ${
+        flipped ? "Mostrar título" : "Mostrar contenido"
+      }`}
       onClick={toggle}
       onKeyDown={onKeyDown}
     >
@@ -36,8 +38,8 @@ function FlipCard({ title, content, idx }) {
           </div>
 
           {/* Reverso */}
-          <div className="absolute inset-0 flex items-center justify-center rounded-2xl bg-white text-gray-900 border border-blue-200 p-4 [transform:rotateY(180deg)] [backface-visibility:hidden] overflow-y-auto">
-            <div className="text-left space-y-2">
+          <div className="absolute inset-0 flex items-center justify-center rounded-2xl bg-white text-gray-900 border border-blue-200 p-4 [transform:rotateY(180deg)] [backface-visibility:hidden]">
+            <div className="text-left space-y-2 overflow-y-auto">
               {content.split(/\n+/).map((p, i) => (
                 <p key={i} className="text-sm leading-relaxed text-gray-700">
                   {p}
@@ -92,7 +94,8 @@ Los productores le decían que no era comercial, que no encajaba con lo que se e
 Ella nunca trató de cambiarla.
 Y miren nada más dónde terminó… ganadora del Óscar, del Grammy, del Emmy
 Vendiendo millones de discos y llenando estadios.
-Esa voz grave que antes le cerraba puertas… fue la que terminó abriéndole todas.`
+Esa voz grave que antes le cerraba puertas… fue la que terminó abriéndole todas.
+A veces lo que nos dicen que es nuestra debilidad, en realidad es lo que nos hace únicos.`
     },
     {
       title: "Ganis Antetokounmpo..",
