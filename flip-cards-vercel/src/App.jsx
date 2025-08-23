@@ -92,8 +92,7 @@ Los productores le decían que no era comercial, que no encajaba con lo que se e
 Ella nunca trató de cambiarla.
 Y miren nada más dónde terminó… ganadora del Óscar, del Grammy, del Emmy
 Vendiendo millones de discos y llenando estadios.
-Esa voz grave que antes le cerraba puertas… fue la que terminó abriéndole todas.
-A veces lo que nos dicen que es nuestra debilidad, en realidad es lo que nos hace únicos.`
+Esa voz grave que antes le cerraba puertas… fue la que terminó abriéndole todas.`
     },
     {
       title: "Ganis Antetokounmpo..",
