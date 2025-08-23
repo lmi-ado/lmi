@@ -62,7 +62,7 @@ export default function App() {
     {
       title: "Margaret Atwood…",
       content: `Escritora de "El cuento de la criada" (entre otros), que ha vendido más de 8 millones de copias solo en inglés
-Hizo una firma a la que nadie fue, excepto un tipo que quería comprar diurex… y pensó que ella era la que podía ayudarlo”`
+Hizo una firma a la que nadie fue, excepto un tipo que quería comprar diurex… y pensó que ella era la que podía ayudarlo`
     },
     {
       title: "Neil Gaiman",
@@ -71,8 +71,8 @@ Hizo una firma con un colega en Manhattan y NADIE fue`
     },
     {
       title: "Madonna",
-      content: `En el 84 cantó Like a Virgin fue en los primeros MTV Video Music Awards… 
-Se le resbaló el zapato, y se tiró al suelo para fingir que estaba planeado y así era el baile
+      content: `En el 84 en los primeros MTV Video Music Awards cantó.
+Se le resbaló el zapato, y se tiró al suelo para fingir que estaba planeado y que así era el baile
 El vestido se le subió sin que ella se diera cuenta, y se le vio más de lo que estaba planeado. Su manager estaba furioso… y le dijo “TU CARRERA SE TERMINÓ CON ESTO”
 Ahaaaaa… de hecho ese percance la ayudó
 Después dijo en entrevista con Howard Stern:
@@ -81,11 +81,11 @@ Madonna tuvo que aprender a saber a quien escuchar`
     },
     {
       title: "HOWARD JONES",
-      content: `A inicios de los 90s su disquera no quería seguir con el después de 5 álbumes..
-Y dijo noooooo.. ya no voy a poder seguir haciendo música
-Casi casi “esto es el final”
-Pero no. Formó su disquera… y empezó a agendar y vender sus shows.. y le fue super bien.
-Si regresara el tiempo… le diría a su yo del pasado: “No te preocupes por esto..Esto es solo una situación y va a pasar… y de hecho te va a ir mejor!”`
+      content: `A inicios de los 90s su disquera no quería seguir con el después de 5 álbumes.
+Y dijo noooooo, ya no voy a poder seguir haciendo música
+Casi que “esto es el final”
+Pero no. Formó su disquera y empezó a agendar y vender sus shows y le fue super bien.
+Si regresara el tiempo… le diría a su yo del pasado: “No te preocupes por esto, es solo una situación y va a pasar… y de hecho te va a ir mejor!”`
     },
     {
       title: "Cher",
@@ -108,7 +108,7 @@ Michael jordan. Jugo 15 años.. y ganó 6 campeonatos… ¿y los otros 9 años f
 Esa no es la pregunta correcta…
 No hay fracasos en los deportes.. 
 Hay días buenos.. días malos… hay veces q es tu turno…  a  veces no… 
-A veces le toca a alguien más ganar…  y El año que entra trataremos de tener mejores hábitos y  jugar mejor… `
+A veces le toca a alguien más ganar…  y el año que entra trataremos de tener mejores hábitos y  jugar mejor… `
     },
     {
       title: "MICHAEL JORDAN",
@@ -117,8 +117,7 @@ He perdido casi 300 juegos.
 26 veces me han confiado el tiro ganador del juego y lo he fallado. 
 He fracasado una y otra vez en mi vida y ESO ES POR LO QUE TENGO ÉXITO”
 Nunca vio sus “fracasos como derrotas” y por eso siguió
-Y cada vez que se hechaba un tiro lo hacía sin saber si la pelota iba para adentro de la canasta o no… 
-Si ves un fracaso como derrota ahí ya se acabó todo… pero si lo ves como un paso más que tienes que seguir para llegar a lo que buscas y te sigues arriesgando… solo es cuestión de tiempo… `
+Y cada vez que se hechaba un tiro lo hacía sin saber si la pelota iba para adentro de la canasta o no…`
     },
     {
       title: "The beatles",
