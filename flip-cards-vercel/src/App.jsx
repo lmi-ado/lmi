@@ -101,49 +101,46 @@ A veces lo que nos dicen que es nuestra debilidad, en realidad es lo que nos hac
       title: "Ganis Antetokounmpo..",
       content: `Un reportero le pregunto… si veía esta temporada como un fracaso
 En resumen, contestó:
-A ver, ¿cada año q trabajas tienes te promueven? No..
-¿Y entonces el año fue un fracaso? No… 
-No es un fracaso… son paso hacia el éxito..  y siempre hay pasos que seguir.. 
-Michael jordan. Jugo 15 años.. y ganó 6 campeonatos… ¿y los otros 9 años fueron un fracaso?
-Esa no es la pregunta correcta…
-No hay fracasos en los deportes.. 
-Hay días buenos.. días malos… hay veces q es tu turno…  a  veces no… 
-A veces le toca a alguien más ganar…  y el año que entra trataremos de tener mejores hábitos y  jugar mejor… `
+A ver, ¿cada año que trabajas tienes te promueven? No
+¿Y entonces el año fue un fracaso? No
+No es un fracaso… son paso hacia el éxito, y siempre hay pasos que seguir
+Michael Jordan jugó 15 años y ganó 6 campeonatos ¿y los otros 9 años fueron un fracaso?
+Esa no es la pregunta correcta
+No hay fracasos en los deportes`
     },
     {
       title: "MICHAEL JORDAN",
       content: `“He fallado más de 9000 tiros en mi carrera. 
 He perdido casi 300 juegos. 
 26 veces me han confiado el tiro ganador del juego y lo he fallado. 
-He fracasado una y otra vez en mi vida y ESO ES POR LO QUE TENGO ÉXITO”
+He fracasado una y otra vez en mi vida y ESO ES POR ESO QUE TENGO ÉXITO”
 Nunca vio sus “fracasos como derrotas” y por eso siguió
-Y cada vez que se hechaba un tiro lo hacía sin saber si la pelota iba para adentro de la canasta o no…`
+Y cada vez que se hechaba un tiro lo hacía sin saber si la pelota iba para adentro de la canasta o no`
     },
     {
       title: "The beatles",
-      content: `George … Paul.. John y Pete Best en ese entonces.. componían y tocaban.. 
-Brian Epstein los escuchó y supo que ahí había talento… 
-Y poco tiempo después… les consiguió una prueba  con la disquera Decca.
-No les fue bien.
+      content: `George, Paul, John y Pete Best en ese entonces componían y tocaban.. 
+Brian Epstein los escuchó y supo que ahí había talento
+Y poco tiempo después… les consiguió una audición con la disquera Decca.
+No les fue nada bien.
 Para la disquera tenían un sonido mediocre, y el ejecutivo a cargo creía que las bandas con guitarras iban en camino a la extinción.
-Eso no los detuvo ni a ellos ni a Epstein, que después les consiguió una audición con Emi.. y ahí firmaron con la disquera.`
+Eso no los detuvo ni a ellos ni a Epstein, que después les consiguió una audición con Emi y ahí firmaron contrato.`
     },
     {
       title: "Walt Dinsey",
       content: `Cuando era joven trabajó como editor del Kansas City Star
-Ahí lo corrieron por “falta de creatividad e imaginación y porque no tenía buenas ideas"
-El no se compró esa idea… y creó un imperio con la creatividad… q definitivamente no le faltaba…  
+Ahí lo corrieron por “falta de creatividad e imaginación" y porque no tenía buenas ideas
+El no se la compró y creó un imperio con la creatividad que definitivamente no le faltaba
 Este despido marcó el inicio de su camino hacia la creación de un imperio en la animación. 
 Más de 50 años después de su muerte seguimos rodeados de sus creaciones`
     },
     {
-      title: "Jk rowling",
-      content: `La autora Harry potter ha vendido más de 500 millones de copias
-Ella trabajaba en Amnistía Internacional
-La corrieron por que se ponía a escribir historias infantiles en horario laboral y la cacharon varias veces… 
-Estuvo un rato viviendo de su liquidación y beneficios estatales y ahí enmpezó con harry Potter
-12 editoriales le dijeron q no… 
-Y 1 Bloomsbury le dijo que si 
+      title: "Jk Rowling",
+      content: `Trabajaba en Amnistía Internacional
+La corrieron porque se ponía a escribir historias infantiles en horario laboral y la cacharon varias veces 
+Estuvo un rato viviendo de su liquidación y beneficios estatales y ahí empezó con Harry Potter
+12 editoriales le dijeron que no
+Y 1, Bloomsbury, le dijo que si 
 De todas maneras el presidente le recomendó que buscara trabajo, porque no se gana bien con libros para niños
 Mmmmmm
 En 5 años era multimullonaria`
@@ -152,62 +149,60 @@ En 5 años era multimullonaria`
       title: "Bon Jovi",
       content: `Con Runaway trataron de conseguir contrato con una disquera… 
 Las personas dedicadas a encontrar talento le decían que no y que no 
-Fueron  muchas veces
 Pivotearon
-Jon Bon Jovi pensó  “hay un dj… que se pasa la vida sentado en un cuartito hablando por el micrófono y poniendo música entre 4 y 6 horas al día. Este cuate debe de amar la música”
+Jon Bon Jovi pensó  “hay un DJ que se la pasa sentado en un cuartito hablando por el micrófono y poniendo música entre 4 y 6 horas al día. Este cuate debe de amar la música”
 Le llevó su canción, le gustó y la empezó a poner
-A la gente le empezó a  gustar y las disqueras se empezaron a interesar en ellos
-No siempre los expertos… tienen toda la verdad… ni tu solo un camino para hacer lo que quieres…`
+A la gente le empezó a gustar y las disqueras se empezaron a interesar en ellos
+No siempre los expertos… tienen toda la verdad… ni tú solo un camino para hacer lo que quieres`
     },
     {
-      title: "Robert smith",
+      title: "Robert Smith",
       content: `Alguna vez su disquera lo rechazó.
-No querían publicar el álbum Desintegration
-En esa época el estaba pasando depresión fuerte
-Al final si lo publicaron… vendieron más de 2.7 millones de copias en un año… y este álbum los llevó a otro nivel`
+No querían publicar el álbum Disintegration
+En esa época el estaba pasando por una depresión fuerte
+Al final si lo publicaron y  vendieron más de 2.7 millones de copias en un año… y este álbum los llevó a otro nivel`
     },
     {
       title: "Bruno Mars",
-      content: `Después de 1 año de firmar con Motown.. le dijeron Adios… lo despidieron
-Y eso no fue el fin de su carrera.
-Tampoco es el fin de la tuya`
+      content: `Después de 1 año de firmar con la disquera Motown le dijeron "adios", lo despidieron.
+Y eso no fue el fin de su carrera.`
     },
     {
       title: "Elvis Presley",
-      content: `Elvis Presley en la escuela lo bulleaban  y cuando tocaba la guitarra se burlaban de el, de como era.. de como se veía... 
-En la materia de música le iba muy mal y su miss le decía que no tenía aptitudes para el cantó
+      content: `En la escuela lo molestaban  y cuando tocaba la guitarra se burlaban de el, de cómo era, de cómo se veía. 
+En la materia de música le iba muy mal y su maestra le decía que no tenía aptitudes para el canto
 Un día consigió una presentación en una estación de radio y le fue fatal
 Salio de la secundaria y trabajaba manejando camiones
-Una vez en un show, el encargado le dijo que mejor siguiera manejando camiones y así hubo varias
-Que fueron parte del camino que recorrió para convertirse en el rey del Rock & Rol `
+Una vez en un show, el encargado le dijo que mejor siguiera manejando camiones y así hubo varias,
+que fueron parte del camino que recorrió para convertirse en el rey del Rock & Rol `
     },
     {
       title: "George Lucas y Star Wars",
-      content: `Muchos estudios rechazaron el proyecto, hasta que 20th Century fox decidió darle oportunidad
+      content: `Muchos estudios rechazaron el proyecto, hasta que 20th Century Fox decidió darle oportunidad
 George Lucas negoció su sueldo como director a cambio del 40% de las ganancias en taquilla.
-Un movimiento listo, basado en la fe que tenía en el y en su creación, a pesar del rechazo y falta de fe de los otros estidios`
+Un movimiento listo, basado en la fe que tenía en el y en su creación, a pesar del rechazo y falta de fe de los otros estudios`
     },
     {
       title: "Melanie Perkins",
-      content: `Fue a Silicon Valley...para lanzar su proyecto...
+      content: `Fue a Silicon Valley para lanzar su proyecto.
 MÁS DE 100 INVERSIONISTAS con los que se reunió rechazaron su propuesta
-3 años después de la creación de su empresa, consiguió la primera ampliación de capital....
-Actualmente  vale millones de dolares… 
-la CEO y cofundadora de la empresa se convirtió en la segunda mujer más rica de toda Australia
+3 años después de la creación de su empresa, consiguió la primera ampliación de capital
+Actualmente vale millones de dolares… 
+La CEO y cofundadora de la empresa se convirtió en la segunda mujer más rica de toda Australia
 la empresa se llama  CANVA
-más de 100 personas le dijeron no… y ella dijo… si… `
+más de 100 personas le dijeron "no" y ella dijo "si" `
     },
     {
       title: "Meryl Streep",
-      content: `La rechazaron para un papel en King Kong... por ser demasiado fea... 
+      content: `La rechazaron para un papel en King Kong por ser demasiado fea.
 Es la actriz con más nominaciones en la historia de los Premios Oscar, 21 nominaciones	
-Ha ganado 3 veces, es la segunda actriz con más premios Oscar
+Ha ganado 3 veces
 Y en alguna entrevista ella dijo: 
-Aquella malintencionada opinión podía haber roto mis sueños de convertirme en actriz o forzarme a recomponerme y a creer en mí misma. Tomé aire y dije: 'Siento que pienses que soy demasiado fea para tu película… pero la tuya es sólo una opinión entre miles'.`
+"Aquella malintencionada opinión podía haber roto mis sueños de convertirme en actriz o forzarme a recomponerme y a creer en mí misma. Tomé aire y dije: 'Siento que pienses que soy demasiado fea para tu película… pero la tuya es sólo una opinión entre miles'."`
     },
     {
-      title: "Bono U2",
-      content: `El día que bono cumplía 19 años recibió una carta de la disquera RSO RECORDS que decía:
+      title: "Bono de U2",
+      content: `El día que Bono cumplía 19 años recibió una carta de la disquera RSO RECORDS (una disquera) que decía:
 "Querido Sr. P. Hewson. Gracias por enviar su cinta de U2 a RSO, la escuchamos con cuidadosa consideración, pero sentimos que no es adecuada para nosotros en este momento. Deseamos que tengan suerte en su futura carrera"
 La disquera que mandó la carta cerró el año en que esta banda publicó su tercer álbum.
 Nada está escrito, más bien nosotros lo escribimos`
@@ -221,7 +216,7 @@ Tuvo un colapso nervioso a los 27
 Perdió cuando competía por el Congreso a los 34 
 Perdió cuando iba para senador a los 45 años 
 Trató de ser vicepresidente a los 47 pero claro que no lo logró 
-A los 52 años ¿Qué creen? quedó como presidente de los Estados Unidos 
+A los 52 años quedó como presidente de los Estados Unidos 
 Éste hombre se llamaba Abraham Lincoln`
     },
   ];
