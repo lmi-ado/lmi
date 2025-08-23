@@ -38,7 +38,7 @@ function FlipCard({ title, content, idx }) {
           {/* Reverso */}
           <div className="absolute inset-0 flex items-center justify-center rounded-2xl bg-white text-gray-900 border border-blue-200 p-4 [transform:rotateY(180deg)] [backface-visibility:hidden] overflow-y-auto">
             <div className="text-left space-y-2">
-              {content.split("\n\n").map((p, i) => (
+              {content.split(/\n+/).map((p, i) => (
                 <p key={i} className="text-sm leading-relaxed text-gray-700">
                   {p}
                 </p>
@@ -211,14 +211,18 @@ Aquella malintencionada opinión podía haber roto mis sueños de convertirme en
 La disquera que mandó la carta cerró el año en que esta banda publicó su tercer álbum.
 Nada está escrito, más bien nosotros lo escribimos`
     },
-
-    // ───────── Tarjetas extra (placeholders para que agregues más) ─────────
-    { title: "Tarjeta extra 1", content: `Escribe aquí el contenido de tu nueva tarjeta.` },
-    { title: "Tarjeta extra 2", content: `Puedes usar varios párrafos.\n\nSolo deja una línea en blanco entre ellos.` },
-    { title: "Tarjeta extra 3", content: `Añade citas, ejemplos o anécdotas.` },
-    { title: "Tarjeta extra 4", content: `Si copias texto de otro lado, quedará “tal cual”.` },
-    { title: "Tarjeta extra 5", content: `También puedes usar listas:\n\n• Punto 1\n• Punto 2` },
-    { title: "Tarjeta extra 6", content: `Título y contenido totalmente personalizables.` },
+    {
+      title: "?",
+      content: `Había un hombre que fracasó en los negocios a los 21 años 
+Fue derrotado en una carrera legislativa a los 22 años 
+A los 24 años volvió a fracasar en los negocios 
+Tuvo un colapso nervioso a los 27 
+Perdió cuando competía por el Congreso a los 34 
+Perdió cuando iba para senador a los 45 años 
+Trató de ser vicepresidente a los 47 pero claro que no lo logró 
+A los 52 años ¿Qué creen? quedó como presidente de los Estados Unidos 
+Éste hombre se llamaba Abraham Lincoln`
+    },
   ];
 
   return (
