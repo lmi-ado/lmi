@@ -61,7 +61,7 @@ export default function App() {
     },
     {
       title: "Margaret Atwood…",
-      content: `Escritora de "El cuento de la criada" (entre otros), que ha vendido más de 8 millones de copias solo en inglés
+      content: `Escritora de "El cuento de la criada" (entre otros), que ha vendido más de 8 millones de copias solo en inglés.
 Hizo una firma a la que nadie fue, excepto un tipo que quería comprar diurex… y pensó que ella era la que podía ayudarlo`
     },
     {
@@ -77,11 +77,11 @@ El vestido se le subió sin que ella se diera cuenta, y se le vio más de lo que
 Ahaaaaa… de hecho ese percance la ayudó
 Después dijo en entrevista con Howard Stern:
 “Cuando te pasan cosas así… año tras año… ya solo es ruido para ti”
-Madonna tuvo que aprender a saber a quien escuchar`
+Madonna tuvo que aprender a saber a quién escuchar`
     },
     {
-      title: "HOWARD JONES",
-      content: `A inicios de los 90s su disquera no quería seguir con el después de 5 álbumes.
+      title: "Howard Jones",
+      content: `A inicios de los 90s su disquera no quería seguir con él después de 5 álbumes.
 Y dijo noooooo, ya no voy a poder seguir haciendo música
 Casi que “esto es el final”
 Pero no. Formó su disquera y empezó a agendar y vender sus shows y le fue super bien.
@@ -101,25 +101,25 @@ A veces lo que nos dicen que es nuestra debilidad, en realidad es lo que nos hac
       title: "Ganis Antetokounmpo..",
       content: `Un reportero le pregunto… si veía esta temporada como un fracaso
 En resumen, contestó:
-A ver, ¿cada año que trabajas tienes te promueven? No
+A ver, ¿cada año que trabajas te promueven? No
 ¿Y entonces el año fue un fracaso? No
-No es un fracaso… son paso hacia el éxito, y siempre hay pasos que seguir
+No es un fracaso… son pasos hacia el éxito, y siempre hay pasos que seguir
 Michael Jordan jugó 15 años y ganó 6 campeonatos ¿y los otros 9 años fueron un fracaso?
 Esa no es la pregunta correcta
 No hay fracasos en los deportes`
     },
     {
-      title: "MICHAEL JORDAN",
+      title: "Michael Jordan",
       content: `“He fallado más de 9000 tiros en mi carrera. 
 He perdido casi 300 juegos. 
 26 veces me han confiado el tiro ganador del juego y lo he fallado. 
-He fracasado una y otra vez en mi vida y ESO ES POR ESO QUE TENGO ÉXITO”
+He fracasado una y otra vez en mi vida y ES POR ESO QUE TENGO ÉXITO”
 Nunca vio sus “fracasos como derrotas” y por eso siguió
 Y cada vez que se hechaba un tiro lo hacía sin saber si la pelota iba para adentro de la canasta o no`
     },
     {
       title: "The beatles",
-      content: `George, Paul, John y Pete Best en ese entonces componían y tocaban.. 
+      content: `George, Paul, John y Pete Best en ese entonces componían y tocaban.
 Brian Epstein los escuchó y supo que ahí había talento
 Y poco tiempo después… les consiguió una audición con la disquera Decca.
 No les fue nada bien.
@@ -140,10 +140,10 @@ Más de 50 años después de su muerte seguimos rodeados de sus creaciones`
 La corrieron porque se ponía a escribir historias infantiles en horario laboral y la cacharon varias veces 
 Estuvo un rato viviendo de su liquidación y beneficios estatales y ahí empezó con Harry Potter
 12 editoriales le dijeron que no
-Y 1, Bloomsbury, le dijo que si 
+Y 1, Bloomsbury, le dijo que sí 
 De todas maneras el presidente le recomendó que buscara trabajo, porque no se gana bien con libros para niños
 Mmmmmm
-En 5 años era multimullonaria`
+En 5 años era multimillonaria`
     },
     {
       title: "Bon Jovi",
@@ -202,7 +202,7 @@ Y en alguna entrevista ella dijo:
     },
     {
       title: "Bono de U2",
-      content: `El día que Bono cumplía 19 años recibió una carta de la disquera RSO RECORDS (una disquera) que decía:
+      content: `El día que Bono cumplía 19 años recibió una carta de la disquera RSO RECORDS que decía:
 "Querido Sr. P. Hewson. Gracias por enviar su cinta de U2 a RSO, la escuchamos con cuidadosa consideración, pero sentimos que no es adecuada para nosotros en este momento. Deseamos que tengan suerte en su futura carrera"
 La disquera que mandó la carta cerró el año en que esta banda publicó su tercer álbum.
 Nada está escrito, más bien nosotros lo escribimos`
