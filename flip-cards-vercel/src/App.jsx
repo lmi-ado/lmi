@@ -56,11 +56,11 @@ function FlipCard({ title, content, idx }) {
 export default function App() {
   const cards = [
     {
-      title: "Stephen King..",
+      title: "Stephen King",
       content: `En su primera firma de Salem’s Lot (segundo libro) tenía solamente un cliente. Era un niño que dijo: "Oye amigo, ¿Sabes dónde hay algunos libros nazis?"`
     },
     {
-      title: "Margaret Atwood…",
+      title: "Margaret Atwood",
       content: `Escritora de "El cuento de la criada" (entre otros), que ha vendido más de 8 millones de copias solo en inglés.
 Hizo una firma a la que nadie fue, excepto un tipo que quería comprar diurex… y pensó que ella era la que podía ayudarlo`
     },
