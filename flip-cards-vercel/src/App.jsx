@@ -57,7 +57,7 @@ export default function App() {
   const cards = [
     {
       title: "Stephen King..",
-      content: `En su primera firma de Salem’s Lot (segundo libro) tenía solamente un cliente. Era un niño que dijo: ‘Oye amigo, ¿Sabes dónde hay algunos libros nazis?`
+      content: `En su primera firma de Salem’s Lot (segundo libro) tenía solamente un cliente. Era un niño que dijo: "Oye amigo, ¿Sabes dónde hay algunos libros nazis?"`
     },
     {
       title: "Margaret Atwood…",
